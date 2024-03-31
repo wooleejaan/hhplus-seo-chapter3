@@ -42,4 +42,17 @@ React 어플리케이션에서의 pre-rendering 지원 도구 → 매 페이지 
 
 ## SEO 분석
 
+![alt text](/docs/image.png)
+
 ### 개선을 위한 작업 목록
+
+https://seositecheckup.com/seo-audit/hhplus-seo-chapter3.vercel.app
+
+1. html compression을 활성화해 페이지 크기와 로딩 시간 단축
+2. h1, h2 태그 사용해 콘텐츠 구조와 계층 형성, 키워드 최적화
+3. meta title, description 등에 키워드를 포함해야 함
+4. 404 페이지의 경우, 도움 되는 링크와 정보를 포함해야 함
+5. 반응형 대응을 위한 media query 사용
+6. 웹 페이지 렌더링 차단하는 리소스 제거
+7. cdn 서비스를 통해 리소스 캐싱 추가
+8. ga를 추가해 방문자와 트래픽 모니터링
