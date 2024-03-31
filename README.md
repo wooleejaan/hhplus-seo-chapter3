@@ -2,6 +2,8 @@
 
 ## 개발환경 설정
 
+[OG, 트위터 Meta 태그](./src/meta/index.tsx)
+
 1. react-router-dom
 
 React 컴포넌트 기반 라우팅 처리, 에러 페이지 구현
